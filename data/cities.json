@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "France",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 178067514
+    },
+    {
+      "cityName": "Pinarbasi",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2023-08-09T05:52:14.021Z",
+      "notes": "mja aa gya",
+      "position": {
+        "lat": "38.92872821795044",
+        "lng": "36.40869140625001"
+      },
+      "id": 178067516
+    },
+    {
+      "cityName": "Merida",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-09T06:48:27.804Z",
+      "notes": "mast",
+      "position": {
+        "lat": "38.87669089158295",
+        "lng": "-6.328125000000001"
+      },
+      "id": 178067517
+    }
+  ]
+}
